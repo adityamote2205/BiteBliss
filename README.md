@@ -4,11 +4,11 @@ BiteBliss is a full-stack restaurant recommendation app built using the PERN sta
 
 ## Features
 
-- View a list of restaurants
-- See detailed information about each restaurant, including reviews, location, and price range
-- Add new restaurants to the database
-- Update restaurant information
-- Leave reviews and ratings for restaurants
+- **Restaurant Listings:** View a comprehensive list of restaurants including their name, location, price range, and average rating.
+- **Restaurant Details:** Access detailed information about each restaurant, such as reviews, location on a map, and pricing options.
+- **User Reviews:** Leave reviews and ratings for restaurants to share your experiences with others.
+- **Add New Restaurants:** Contribute to the platform by adding new restaurants that are not yet listed.
+- **Update Restaurant Information:** Keep restaurant details up-to-date by editing their information when necessary.
 
 ## Technologies Used
 
